@@ -96,10 +96,10 @@ body {
 
 .diseno{
  
-  background-color: rgb(234, 234, 238);
+  background-color: rgb(243, 242, 242);
   padding-top: 50px;
   padding-bottom: 50px;
   border-radius: 20px;
-  box-shadow: 5px 5px 10px 1px rgba(3, 4, 3, 0.4);
+  box-shadow: 2px 2px 20px .1px rgba(3, 4, 3, 0.4);
 
 }
